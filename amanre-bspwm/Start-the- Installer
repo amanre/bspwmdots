@@ -50,7 +50,7 @@ tput sgr0
 echo
 sleep 2
 sh remove-software.sh*
-#sh install-custom-xfce.sh*
+sh install-apps.sh*
 sh install-bspwm.sh*
 sh install-bluetooth.sh*
 sh install-rofi.sh*
